@@ -27,4 +27,4 @@
 
 ![Dharshna25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharshna25&theme=tokyonight&hide_border=true)
 
-![LeetCode Stats](https://leetcode.panchajanya.dev/927622bec040?theme=nord&font=Varela&ext=heatmap)
+[![LeetCode Stats](https://leetcode.panchajanya.dev/927622bec040?theme=nord&font=Varela&ext=heatmap)](https://leetcode.com/u/927622BEC040/)
